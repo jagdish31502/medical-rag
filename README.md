@@ -26,7 +26,7 @@ Ask questions over ingested PDFs with citations. Backend: **FastAPI**, **LangCha
 ### 1. Clone and enter the project
 
 ```bash
-cd takehomeassessment
+cd medical-rag
 ```
 
 (Use your actual repository path.)
