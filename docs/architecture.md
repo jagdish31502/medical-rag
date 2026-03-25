@@ -37,7 +37,7 @@ High-level design of the RAG stack. For step-by-step runtime behavior, see [flow
 
 No per-chunk table in SQL; chunks live only in FAISS + PDF on disk.
 
-**Future:** originals may live in **S3 or Azure Blob**; API citations can expose **read-only** URLs (e.g. pre-signed GETs). See **[future_scop.md](future_scop.md)** (§3.6).
+**Future:** originals may live in **S3 or Azure Blob**; API citations can expose **read-only** URLs (e.g. pre-signed GETs). See **[future_scop.md](future_scop.md)** (3.6).
 
 ---
 
